@@ -21,8 +21,6 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,bbs.g7zj.com
 DOMAIN-SUFFIX,linux.org
 IP-CIDR,8.8.8.8/32,no-resolve
