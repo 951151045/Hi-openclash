@@ -8,6 +8,13 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+
+# 自定义域名
+DOMAIN-SUFFIX,xindongle.cn
+DOMAIN-SUFFIX,goho.co
+DOMAIN-SUFFIX,lqysql.goho.co
+DOMAIN-SUFFIX,lmyit.cn
+
 DOMAIN-KEYWORD,xindongle
 
 # IP段匹配
