@@ -8,13 +8,15 @@
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,xindongle
+DOMAIN-KEYWORD,ac
 
 # 自定义域名
 DOMAIN-SUFFIX,xindongle.cn
 DOMAIN-SUFFIX,goho.co
 DOMAIN-SUFFIX,goofish.com
-
-DOMAIN-KEYWORD,xindongle
+DOMAIN-SUFFIX,ntp.ntsc.ac.cn
+DOMAIN-KEYWORD,xindongle.cn
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
